@@ -23,5 +23,5 @@ print(np.vstack((a1 , a2)))
 #horizontal stack
 print(np.hsplit(a1, 2))
 
-#vertcal stack
+#vertial stack
 print(np.vsplit(a2, 2))
