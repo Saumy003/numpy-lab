@@ -23,3 +23,4 @@ print(arr3.itemsize)   #8 bytes
 # 5. dtypes
 print(arr1.dtype)      #int64
 print(arr2.dtype)      #float64
+
