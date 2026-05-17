@@ -3,7 +3,8 @@
 import numpy as np
 
 
-# astype  --> in NumPy is used to change the data type of elements in a NumPy array.
+# astype => in NumPy is used to change the data type of elements in a NumPy array.
+
 
 # Integer --> float
 arr = np.array([1, 2, 3, 4])
